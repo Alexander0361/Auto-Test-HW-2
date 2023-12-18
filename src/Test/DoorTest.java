@@ -5,6 +5,7 @@ import static org.junit.Assert.*;
 
 public class DoorTest {
 
+    //не опнятен смысл теста
     @Test
     public void testIsPrize() {
         Door prizeDoor = new Door(true);
